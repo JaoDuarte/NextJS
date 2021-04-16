@@ -10,7 +10,7 @@ NPX é um package runner do NPM. Ele executa as bibliotecas que podem ser baixad
 
 ### Fonte
 
-https://www.youtube.com/watch?v=TzufYnZUmz4
+     https://www.youtube.com/watch?v=TzufYnZUmz4
 
 <img src="https://s3.amazonaws.com/thinkific-import/220759/OSkIXgBSMGsQ7XYX6bsI_LOGOTIPO-CODER-FUNDOTRANSPARENTE-PRETA.png" width="1000" />
 
